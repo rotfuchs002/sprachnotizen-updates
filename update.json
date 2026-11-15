@@ -1,0 +1,8 @@
+{
+  "version": "1.4.0",
+  "notes": "Neu in 1.4.0: Fuellsaetze und erfundene Woerter werden vollstaendig verworfen - es erscheint nur noch das gesprochene Wort. Fuellwoerter am Satzrand werden entfernt, Wiederholungen zusammengefasst. Neu: Video-Adressen (YouTube, Vimeo, Twitch u.a.) einfuegen und die Tonspur holen - braucht yt-dlp auf dem PC.",
+  "url": "https://github.com/rotfuchs002/sprachnotizen-updates/releases/download/v1.4.0/Sprachnotizen-Patch-1.4.0.zip",
+  "sha256": "6072e7b4887234c82719a6267018be0cf6dab0be9ef74d25ae48a258a70c7cdf",
+  "mandatory": false,
+  "requiresLicense": true
+}
