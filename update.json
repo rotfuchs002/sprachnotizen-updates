@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "notes": "Neu in 1.4.0: Fuellsaetze und erfundene Woerter werden vollstaendig verworfen - es erscheint nur noch das gesprochene Wort. Fuellwoerter am Satzrand werden entfernt, Wiederholungen zusammengefasst. Neu: Video-Adressen (YouTube, Vimeo, Twitch u.a.) einfuegen und die Tonspur holen - braucht yt-dlp auf dem PC.",
-  "url": "https://github.com/rotfuchs002/sprachnotizen-updates/releases/download/v1.4.0/Sprachnotizen-Patch-1.4.0.zip",
-  "sha256": "6072e7b4887234c82719a6267018be0cf6dab0be9ef74d25ae48a258a70c7cdf",
+  "version": "1.5.0",
+  "notes": "Neu in 1.5.0: Sprachbefehle deutlich erweitert (Sonderzeichen, Gross/Klein, Rueckgaengig und Wiederholen, eigene Textbausteine). Neu: Woerterbuch 'so spricht man's, so schreibt man's' mit Lernen aus Korrekturen. Neu: das Menue der Diktatleiste - Mikrofon, Erkennung, Woerterbuch, eigene Befehle, Text und Fenster sind jetzt in aufklappbaren Untermenues direkt in der schmalen Leiste erreichbar.",
+  "url": "https://github.com/rotfuchs002/sprachnotizen-updates/releases/download/v1.5.0/Sprachnotizen-Patch-1.5.0.zip",
+  "sha256": "bc7da9c28dfe151932a509f74e73232b9a47693a5628363320f5036978c17c5d",
   "mandatory": false,
   "requiresLicense": true
 }
