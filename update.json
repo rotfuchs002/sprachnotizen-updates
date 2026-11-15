@@ -1,8 +1,8 @@
 {
   "version": "1.5.0",
-  "notes": "Neu in 1.5.0: Sprachbefehle deutlich erweitert (Sonderzeichen, Gross/Klein, Rueckgaengig und Wiederholen, eigene Textbausteine). Neu: Woerterbuch 'so spricht man's, so schreibt man's' mit Lernen aus Korrekturen. Neu: das Menue der Diktatleiste - Mikrofon, Erkennung, Woerterbuch, eigene Befehle, Text und Fenster sind jetzt in aufklappbaren Untermenues direkt in der schmalen Leiste erreichbar.",
+  "notes": "Neu in 1.5.0: Sprachbefehle deutlich erweitert (Sonderzeichen, Gross/Klein, Rueckgaengig und Wiederholen, eigene Textbausteine). Woerterbuch 'so spricht man's, so schreibt man's' mit Lernen aus Korrekturen. Menue der Diktatleiste mit sieben Untermenues. Wort fuer Wort diktieren mit stabiler Wortgrenze und Direktschreiben nach dem Diktat. Testversion mit 30 Minuten Sprache.",
   "url": "https://github.com/rotfuchs002/sprachnotizen-updates/releases/download/v1.5.0/Sprachnotizen-Patch-1.5.0.zip",
-  "sha256": "bc7da9c28dfe151932a509f74e73232b9a47693a5628363320f5036978c17c5d",
+  "sha256": "ee70706984191050cd4591aac4357ccaac3d1984c7ec2d1214f7a67806e7adb1",
   "mandatory": false,
   "requiresLicense": true
 }
