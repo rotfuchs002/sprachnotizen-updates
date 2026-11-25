@@ -1,8 +1,9 @@
 {
-  "version": "1.5.0",
-  "notes": "Neu in 1.5.0: Sprachbefehle deutlich erweitert (Sonderzeichen, Gross/Klein, Rueckgaengig und Wiederholen, eigene Textbausteine). Woerterbuch 'so spricht man's, so schreibt man's' mit Lernen aus Korrekturen. Menue der Diktatleiste mit sieben Untermenues. Wort fuer Wort diktieren mit stabiler Wortgrenze und Direktschreiben nach dem Diktat. Testversion mit 30 Minuten Sprache.",
-  "url": "https://github.com/rotfuchs002/sprachnotizen-updates/releases/download/v1.5.0/Sprachnotizen-Patch-1.5.0.zip",
-  "sha256": "ee70706984191050cd4591aac4357ccaac3d1984c7ec2d1214f7a67806e7adb1",
+  "version": "1.5.1",
+  "notes": "Neu in 1.5.1: Das Update setzt sich jetzt selbst ein. Die App laedt das Paket, prueft die Pruefsumme, sichert den alten Stand und tauscht die Dateien aus - danach startet sie neu. Kein Entpacken, kein Kopieren von Hand.\n\nStabiler geworden:\n- Abgebrochener Download setzt fort, statt wieder bei null anzufangen.\n- Ohne gueltige Pruefsumme wird nichts installiert.\n- Das Paket wird vor dem Austausch auf sichere Pfade geprueft.\n- Bricht das Kopieren ab, kommt der alte Stand automatisch zurueck.\n- Genug freier Platz wird vorher geprueft.",
+  "url": "https://github.com/rotfuchs002/sprachnotizen-updates/releases/download/v1.5.1/Sprachnotizen-Patch-1.5.1.zip",
+  "sha256": "39f0c6d2f91b855c046246664afc47466c4dbd7c694fdc3fc0f65d9f072c978f",
+  "size": 62965711,
   "mandatory": false,
   "requiresLicense": true
 }
